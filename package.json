@@ -1,0 +1,15 @@
+{
+  "name": "czech-exam-watchdog",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/SanyoGorbunov/CzechExamWatchdog.git",
+  "author": "Alex <oleksandr.horbunov@vistaprint.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "jsdom": "^19.0.0"
+  },
+  "devDependencies": {
+    "aws-sdk": "^2.1058.0"
+  }
+}
